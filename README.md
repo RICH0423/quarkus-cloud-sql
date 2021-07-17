@@ -1,4 +1,4 @@
-# serverless-app Project
+# Quarkus & GCP Cloud SQL Data Access
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
